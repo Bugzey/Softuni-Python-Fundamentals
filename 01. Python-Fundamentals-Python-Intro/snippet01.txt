@@ -1,0 +1,1 @@
+print('Even' if number_is_even else 'Odd')

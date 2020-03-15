@@ -1,0 +1,1 @@
+list(filter(lambda n: n%2 == 0, range(0,100))
